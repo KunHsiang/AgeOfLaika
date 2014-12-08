@@ -13,6 +13,7 @@
 		6075D7591A330083004CC8CE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6075D7581A330083004CC8CE /* Images.xcassets */; };
 		6075D75C1A330083004CC8CE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6075D75A1A330083004CC8CE /* LaunchScreen.xib */; };
 		6075D7681A330083004CC8CE /* Age_of_LaikaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6075D7671A330083004CC8CE /* Age_of_LaikaTests.swift */; };
+		6075D7721A334C61004CC8CE /* AgeOfLaika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6075D7711A334C61004CC8CE /* AgeOfLaika.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		6075D7611A330083004CC8CE /* Age of LaikaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Age of LaikaTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6075D7661A330083004CC8CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6075D7671A330083004CC8CE /* Age_of_LaikaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Age_of_LaikaTests.swift; sourceTree = "<group>"; };
+		6075D7711A334C61004CC8CE /* AgeOfLaika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AgeOfLaika.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				6075D7531A330082004CC8CE /* ViewController.swift */,
 				6075D7551A330082004CC8CE /* Main.storyboard */,
 				6075D7581A330083004CC8CE /* Images.xcassets */,
+				6075D7711A334C61004CC8CE /* AgeOfLaika.jpg */,
 				6075D75A1A330083004CC8CE /* LaunchScreen.xib */,
 				6075D74F1A330082004CC8CE /* Supporting Files */,
 			);
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6075D7571A330082004CC8CE /* Main.storyboard in Resources */,
+				6075D7721A334C61004CC8CE /* AgeOfLaika.jpg in Resources */,
 				6075D75C1A330083004CC8CE /* LaunchScreen.xib in Resources */,
 				6075D7591A330083004CC8CE /* Images.xcassets in Resources */,
 			);
